@@ -1,0 +1,30 @@
+h1{
+  font-size: 80px;
+  text-align: center;
+  text-underline-position: below;
+  border-style: solid 20px black;
+
+  
+}
+
+h2{
+    font-size: 50px;
+    margin-left: 80px;
+}
+
+p{
+    font-size: 25px;
+    width: 1000px;
+    margin-left: 80px;
+}
+h4{font-size: 30px;
+    margin-left: 80px;
+
+}
+li{font-size: 30px;
+   margin-left: 80px;
+}
+img{
+    margin-left: 80px;
+
+}
